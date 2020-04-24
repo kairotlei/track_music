@@ -18,6 +18,9 @@ File name | Original Music name and author | Cover on YT | Original version
 `ut99_nrk.mptm` | *Unreal Tournament 99 intro*, by *Michiel van den Bos* @ *Epic Games* | https://youtu.be/2sj6B0_twF8 | https://youtu.be/qz3KhDGe6WU  
 
 ## How to open these files?  
+You can edit them and do whatever you want, but don't distribute claiming them as yours, so my last words will be:  
+**Enjoy hacking music!**   
+
 Windows:  
 * VLC as player.  
 * OpenMPT as player and editor.  
