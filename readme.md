@@ -24,11 +24,13 @@ You can edit them and do whatever you want, but don't distribute claiming them a
 Windows:  
 * VLC as player.  
 * OpenMPT as player and editor.  
+* Schism Tracker, as player and editor. A bit harder to use than OpenMPT.
   
 Linux:  
 * VLC as player.  
 * MilkyTracker as player and editor.  
 * OpenMPT using Wine, good support. For *Arch Linux* there is an AUR package, `openmpt` .  
+* Schism Tracker. I didn't try it on Linux.
 
 Android:  
 * XMP Mod Player. Player with wide format support, different visualization settings and selective channel muting. It updates regularly and includes a basic downloader that uses https://modarchive.org/ .  
