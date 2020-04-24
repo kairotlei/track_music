@@ -13,8 +13,8 @@ Here are some music tracks I tried to recreate and was able to found in my hard 
 File name | Original Music name and author | Cover on YT | Original version  
 --------- | ------------------------------ | ----------- | ----------------
 `dbow_nrk.mptm` | *Bow meets Bass*, *by Davie504* | none | https://youtu.be/2nQVb1-RpK4  
-`nine_nrk.mptm` | *Nine Thou*, by *Styles of Beyond* | https://youtu.be/o5U3hjwBcuU | https://youtu.be/J6SYvIRIGzc  
-`ufly_nrk.mptm` | *Flightcastle*, by *Alexander Brandon* @ *Epic Games* | https://youtu.be/26I-Pw-yPJ4 | https://youtu.be/-zLhYJGfS0o  
+`nine_nrk.mptm` | *Nine Thou*, by *Styles of Beyond* | https://youtu.be/J6SYvIRIGzc | https://youtu.be/o5U3hjwBcuU  
+`ufly_nrk.mptm` | *Flightcastle*, by *Alexander Brandon* @ *Epic Games* | https://youtu.be/-zLhYJGfS0o | https://youtu.be/26I-Pw-yPJ4  
 `ut99_nrk.mptm` | *Unreal Tournament 99 intro*, by *Michiel van den Bos* @ *Epic Games* | https://youtu.be/2sj6B0_twF8 | https://youtu.be/qz3KhDGe6WU  
 
 ## How to open these files?  
